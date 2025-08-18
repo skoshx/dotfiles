@@ -18,8 +18,7 @@ echo "enabling corepack"
 corepack enable
 
 echo "setting up git"
-git config --global user.name "Rasmus Gustafsson"
-git config --global user.email "rasmus.gustafsson2611@gmail.com"
+cp .gitconfig $HOME/.gitconfig
 
 cat > ~/.ssh/config <<EOL
 Host github.com
