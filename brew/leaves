@@ -1,0 +1,14 @@
+deno
+ffmpeg
+git-lfs
+llvm
+nvm
+pure
+redis
+stripe/stripe-cli/stripe
+supabase/tap/supabase
+tmux
+tree
+wget
+oven-sh/bun/bun
+zig
