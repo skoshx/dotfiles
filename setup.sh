@@ -35,3 +35,5 @@ echo "installing rust"
 curl https://sh.rustup.rs -sSf | sh
 
 
+echo "setup settings: keyboard -> input sources -> edit -> disable autocomplets "
+
