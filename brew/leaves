@@ -13,4 +13,5 @@ wget
 oven-sh/bun/bun
 zig
 cloudflared
+macchina
 
